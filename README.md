@@ -11,7 +11,7 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 
-3. Add .env file with MySQL credentials
+3. Add .env file with MySQL credentials(you also need xmapp to conecet the mysql wit server) 
 
 4.datasets 
 Chest X-Ray (Pneumonia): https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
