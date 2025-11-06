@@ -1,4 +1,0 @@
-Model,Accuracy,Loss
-VGG16,0.875,0.2831
-ResNet50,0.7772,0.5627
-EfficientNetB0,0.625,0.6744
