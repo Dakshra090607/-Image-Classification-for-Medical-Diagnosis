@@ -9,6 +9,7 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 3. Add .env file with MySQL credentials
+
 4.datasets 
 Chest X-Ray (Pneumonia): https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 Skin Cancer (HAM10000): https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
